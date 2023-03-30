@@ -1,5 +1,9 @@
 # Three.js Project Template
 
+# Architecture
+
+![architecture](./architecture.png)
+
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
